@@ -2,7 +2,7 @@
 @section('content')
 <div class="card">
     <h2 class="card-header">
-        Lista de Libros
+        CRUD de libros e <b>POSTGRESQL</b>
         <div class="btn btn-link">
             <a href="{{ route('book.create') }}" class="btn btn-info" >Añadir Libro</a>
         </div>
